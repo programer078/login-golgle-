@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615963470221",
+    "project_id": "sign-1ae2a",
+    "storage_bucket": "sign-1ae2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615963470221:android:d0e625b4732cf22a9435c4",
+        "android_client_info": {
+          "package_name": "com.khr.sign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615963470221-itbd2hnss8uoj243gmpu9mrokk2b19ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBys6ljXwQQqqcQOupnorA-hR-EvQgJo7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615963470221-itbd2hnss8uoj243gmpu9mrokk2b19ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
